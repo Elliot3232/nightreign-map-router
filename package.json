@@ -20,6 +20,7 @@
     "preview": "next build && next start",
     "start": "next start",
     "typecheck": "tsc --noEmit",
+    "validate:layouts": "node scripts/validate_layouts.cjs",
     "generate:poi-ids": "node scripts/generate_poi_ids.cjs"
   },
   "dependencies": {
