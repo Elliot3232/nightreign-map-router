@@ -19,6 +19,7 @@ This folder contains comprehensive documentation for the Nightreign Map Router p
 ### 🛠️ **development/** - Development Guidelines & Workflows
 - **DEVELOPMENT_GUIDELINES.md** - Coding standards and best practices
 - **DEVELOPMENT_CHECKLIST.md** - Development tasks and milestones
+- **DATA_CONTRIBUTION_GUIDELINES.md** - Standards for source-backed data contributions
 - **AI_TODO_AND_REVERT_LOG.md** - AI-assisted development log
 
 ### 🎮 **game-mechanics/** - Game-Specific Mechanics & POI Information
